@@ -1,0 +1,6 @@
+Zurich Talk, and the core functionality of the Transmission-Dashboard 
+were provided by Alessandro Farsi (af2886@columbia.edu), with some
+modifications.
+
+If you would like to contribute new code to these master files, 
+please contact me (reeslmcnally@gmail.com)
